@@ -1,0 +1,23 @@
+Package: checkData4metdna
+Type: Package
+Title: checkData4metdna
+Version: 0.1
+Date: 2019-02-15
+Author: Xiaotao Shen
+Maintainer: Xiaotao Shen<shenxt@sioc.ac.cn>
+Description: analysisReport
+LazyData: true
+Depends: R (>= 3.0)
+Imports: ggplot2,
+         readr
+License: GPL-2 | file LICENSE
+URL: https://github.com/jaspershen/analysisReport
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown,
+    BiocStyle,
+    RUnit,
+    BiocGenerics
+VignetteBuilder: knitr
+Note:
+
